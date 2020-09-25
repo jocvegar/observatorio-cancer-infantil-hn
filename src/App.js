@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h3>MUY PRONTO</h3>
         <p className="last-item">
-          <a href="http://salvamivida.org/" target="_blank">
+          <a href="http://salvamivida.org/" target="_blank" rel="noopener noreferrer">
             Fundación Hondureña Para El Niño Con Cáncer 
             <span className="copyright">
               &#169; 2020
